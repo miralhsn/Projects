@@ -1,6 +1,3 @@
-/* NUCES Airline Flight System (NAFS) */
-/* Miral Hasan 22i-8753 SE-D */
-
 #include <iostream>
 #include <string>
 using namespace std;
